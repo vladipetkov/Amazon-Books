@@ -21,7 +21,7 @@ The group explored the following research questions in their work, amongst many 
 #### Can we use user- and book-related features to predict whether a book will receive a high rating?
 
 ## Instructions for running the files
-The notebook file has already the produced outputs and results displayed. If one wishes to run the files they would need to have installed the appropriate packages, mentioned in the requirements.txt \
+The group22_amazon-books.ipynb notebook file has already the produced outputs and results displayed. If one wishes to run the files they would need to have installed the appropriate packages, mentioned in the requirements.txt \
 Required packages are: 
 pycountry, 
 plotly,
