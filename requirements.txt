@@ -1,0 +1,8 @@
+pycountry
+plotly
+numpy
+pandas
+matplotlib
+seaborn
+ipython
+scikit-learn
