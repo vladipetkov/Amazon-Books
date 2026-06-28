@@ -1,16 +1,16 @@
 # Contributions
 
 ## Mark Nemeth
-Mark contributed to the recommending model
+Mark contributed to the classification (recommendation) model
 
 ## Vlad Mare
-Vlad contributed to the classification model
+Vlad contributed to the age-prediction (unrealised) model and classification (recommendation) model
 
 ## Alan Chen
-Alan contributed to the recommending model, 
+Alan contributed to the classification (recommendation) model
 
 ## Vladimir Petkov
-Vladi contributed to the data cleaning, classification model
+Vladimir contributed to the age-prediction (unrealised) model and classification (recommendation) model
 
 ## Group Work
-All group members contributed to exploratory data analysis, discussing the project direction, research questions, report, improving the analysis.
+All group members contributed to exploratory data analysis, cleaning up data, discussing the project direction, research questions, report, improving the analysis.
