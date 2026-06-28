@@ -14,11 +14,11 @@ It is worth mentioning that the ratings table contains records for purchases and
 ## Research Questions
 The group explored the following research questions in their work, amongst many others.
 
-### How can user reading behavior be used to recommend books to readers in the Amazon Books dataset?
+#### How can user reading behavior be used to recommend books to readers in the Amazon Books dataset?
 
-### Which book and user-related features help predict whether a book will receive a high rating?
+#### Which book and user-related features help predict whether a book will receive a high rating?
 
-### Can we use user- and book-related features to predict whether a book will receive a high rating?
+#### Can we use user- and book-related features to predict whether a book will receive a high rating?
 
 ## Instructions for running the files
 The notebook file has already the produced outputs and results displayed. If one wishes to run the files they would need to have installed the appropriate packages, mentioned in the requirements.txt \
