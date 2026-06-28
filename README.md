@@ -8,7 +8,7 @@ Colaborators in this project are Vladimir Petkov, Mark Nemeth, Vlad Mare and Ala
 The dataset was obtained via kaggle and could be found in the following link:
 https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
-It contains records for available books and users, together with some of their properties respectively, and ratings made by users for book purchases.
+It contains records for available books and users, together with some of their properties respectively, and ratings made by users for book purchases across Amazon.
 It is worth mentioning that the ratings table contains records for purchases and ratings altogether. Therefore one could separate the purchased, but non-rated reviews, having a rating of 0, from the actual ratings, measured on the scale 1-10.
 
 ## Research Questions
